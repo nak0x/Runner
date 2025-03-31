@@ -78,6 +78,7 @@ ProjectSettings/NavMeshAreas.asset
 ProjectSettings/Physics2DSettings.asset
 ProjectSettings/PhysicsManager.asset
 ProjectSettings/UnityConnectSettings.asset
+UserSettings/*
 
 # Keep:
 !Assets/
