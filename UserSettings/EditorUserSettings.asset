@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 5a08575f5207595a0f5d59741173094444164f7d7d2a23317c7a4465bbe1646d
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 0653070355530b035c0a547b47770c14124e1a287e2c276629714f32b4b0606e
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 055403045307080259085a7715770e4345154e7f757e7f347e2f4532b6e46060
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 005404565c5151020f56547b15775a4641164f7a7e7d20627f2a1f31e6b3653a
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 070605570306085f550d542344775b41174f4c722e7f2763287d4b36b4b5613e
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 525307565102500f555a087746770944124f41782d2d7231787d4936e0e6373a
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 5b0205515651580c55575c7416775a484f164b2b7f78736029704a31b2b93769
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 0257575150035f035d5b5e7615770f14171641782e7e7732787b1c32e4e46360
+      flags: 0
+    UnityEditor.ShaderGraph.Blackboard:
+      value: 18135939215a0a5004000b0e15254b524c030a3f2964643d120d1230e9e93a3fd6e826abbd3c3e302a07a37e0901373ae01e0008f707250d171df81a53a5405d41895ac825e0100ec20313c0d91cddccd3d0c7efcca9bd80908fecb0f9cfddf1eff4e7a1b1eae482f0fdaee1e1928b86d888ed909c968797a7cf
+      flags: 0
+    UnityEditor.ShaderGraph.FloatingWindowsLayout2:
+      value: 181344140043005e1a220d3b1f364b524c0c5a27130c293326201334cee5322ca0bd30e8eb293a707b0fd0180b3d0a36fc0d3d04e649501f031bf84253f22f2514d70ccc19c91333cd1f0fcbd95f8bb69b8698a8d5d4cfd7ccd6bafdfae4eff4daf7a3e8afbcbe9af9fbb0e1e380cafbf2c3adc18e9cd285a2908b80ef8a9c8395949c9483d4898297ddbd90bf
+      flags: 0
+    UnityEditor.ShaderGraph.InspectorWindow:
+      value: 18135939215a0a5004000b0e15254b524c1119263f2d6a722016393ce1eb3d36e5d339f9a5602b2e2c07a37e0901373ae01e0008f707250d171df81a53a5485d41895ac825e0100ec20313c0d91cddccd3d0c7efcca9bd80908fecb0f9cfddf1eff4e7a1b1eae482f0fcaee1e1928b86d888ed969b938797a7cf
+      flags: 0
+    lightmappingBakingProfile:
+      value: 51
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 2
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_VCScanLocalPackagesOnConnect: 1
+  m_ArtifactGarbageCollection: 1
+  m_CompressAssetsOnImport: 1
